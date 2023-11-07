@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnadeep13&label=Profile%20views&color=0e75b6&style=flat" alt="swarnadeep13" /> </p>
 
-- 🔭 I’m currently working on **BusyRooms**
+- 🔭 I’m currently working with **BusyRooms**
 
 - 🌱 I’m currently learning **Machine Learning**
 
