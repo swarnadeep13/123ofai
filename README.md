@@ -32,12 +32,12 @@ You can run these projects either Locally or via Google Colab. Both have been do
 For Google Colab
 - Go to https://colab.research.google.com/
 - Login with your Google account.
-- Run the *.ipynb files after downloading them from [https://github.com/swarnadeep13/123ofai/tree/main/Python][here]
+- Run the *.ipynb files after downloading them [here](https://github.com/swarnadeep13/123ofai/tree/main/Python)
 
 For Running locally
-- Use any IDE's e.g :[VS Code][https://code.visualstudio.com/]
-- Follow this [tutorial][https://code.visualstudio.com/docs/languages/python]
-- Run the *.ipynb files after downloading them from [https://github.com/swarnadeep13/123ofai/tree/main/Python][here]
+- Use any IDE's e.g :[VS Code](https://code.visualstudio.com/)
+- Follow this [tutorial](https://code.visualstudio.com/docs/languages/python)
+- Run the *.ipynb files after downloading them from [here](https://github.com/swarnadeep13/123ofai/tree/main/Python)
 
 
 
